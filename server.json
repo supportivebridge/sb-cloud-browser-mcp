@@ -1,0 +1,13 @@
+{
+  "name": "com.supportivebridge/cloud-browser",
+  "title": "SB Cloud Browser",
+  "description": "Always-on private cloud Chrome browser for Claude. Scheduled tasks run with your PC off.",
+  "version": "1.0.0",
+  "websiteUrl": "https://cloudbrowser.supportivebridge.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.cloudbrowser.supportivebridge.com/mcp"
+    }
+  ]
+}
